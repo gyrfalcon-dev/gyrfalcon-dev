@@ -1,5 +1,3 @@
-### Hi, I'm Joaquin 👋
-
 <a href="https://github.com/gyrfalcon-dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=C9D1D9&vCenter=true&width=480&lines=CS+%40+Carnegie+Mellon;Interpretability+%2B+AI+safety;Building+coding+agents+from+scratch;Shipped+4+games+to+3%2C000%2B+players" />
